@@ -26,6 +26,7 @@ Nova is an AI-based voice assistant designed to help with basic tasks. It uses t
 - Nova tries to keep track of chat history. Using voice commands such as "**Nova forget everything**", "**Nova clear chat**", and "**Nova reset chat**" periodically will help reduce memory usage.
 - To open websites: "Nova open site YouTube", etc.
 - To start applicatioins: "Nova start Chrome" or "Nova open chrome", etc.
+- To get AI responses: "Nova give me an easy chocolate cake recipe", etc.
     
 ## License
 
